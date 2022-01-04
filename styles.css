@@ -1,0 +1,23 @@
+
+  body {
+    background-color: #EAF6F6;
+  }
+  hr {
+    border-style: dotted none none;
+    align-items: center;
+    width: 20%;
+    border-width: 5px;
+    border-color: grey;
+
+  }
+
+  h1{
+    color: #66BFBF;
+    font-family: Arial;
+
+  }
+
+  h3{
+    color: #66BFBF;
+    font-family: serif;
+  }
